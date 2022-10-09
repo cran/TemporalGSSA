@@ -23,7 +23,7 @@ This function of the package 'TemporalGSSA' checks whether the user-defined
 data is suitable for further processing.
 }
 \details{
-The number of observations must be at least 30 (consective runs of 'GillespieSSA') 
+The number of observations must be at least 30 (consecutive runs of 'GillespieSSA')
 to generate data that is statistically significant. The user must also enter a choice that
 specifies the statistical modality utilized to compute a representative timestep
  (1, mean; 2, median; 3, random; 4, all). Both arguments are mandatory.

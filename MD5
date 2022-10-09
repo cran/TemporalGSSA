@@ -1,7 +1,7 @@
-c08b046a96f3e53c97a864edba3dc173 *DESCRIPTION
+44af4618d3069c77f0a124fb473e8cdc *DESCRIPTION
 3f94f7d6bf0f93e9a1e261fa9cd13f5f *NAMESPACE
-43adb18e9ff5a0f3720e0b81348227b6 *R/calculate_TemporalGSSA.R
-b339a22fba087bc9283d91eada649ae5 *man/calculate_TemporalGSSA.Rd
-4a020f9cc5539628b8c69115fee71f02 *man/check_TemporalGSSA.Rd
+5af575db3bcca45ac3eedaed18d0ede5 *R/calculate_TemporalGSSA.R
+b01bf275703525673a7f89b380cf9232 *man/calculate_TemporalGSSA.Rd
+8271c3ae9fe6ec0ab06217398de7c180 *man/check_TemporalGSSA.Rd
 f530f73178504cdeb8b599502e6552fc *tests/testthat.R
 0e8bee10b7a4bb2aceb0ac8181d19b47 *tests/testthat/test-report.R
